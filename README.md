@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishnakumar%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakumar-m-073027312)
 [![GitHub](https://img.shields.io/badge/GitHub-Krish00i7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish00i7)
 [![Email](https://img.shields.io/badge/Gmail-krishna00i777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna00i777@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Krish00i7&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS)](https://github.com/Krish00i7)
 
 </div>
 
