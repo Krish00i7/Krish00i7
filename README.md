@@ -35,7 +35,7 @@ I'm **Krishnakumar M**, a Computer Science student with a strong interest in ful
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![End to End Development](https://img.shields.io/badge/Front--End_Development-61DAFB?style=flat-square&logo=react&logoColor=black)
+![End to End Development](https://img.shields.io/badge/End-to-End_Development-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Web Development](https://img.shields.io/badge/Web_Development-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)
 
 ### 🗄️ Databases & ORM
