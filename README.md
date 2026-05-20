@@ -55,10 +55,10 @@ I'm **Krishnakumar M**, a Computer Science student with a strong interest in ful
 ## 🎯 Areas of Interest
 
 ```
-  ✦ Full-Stack Web Development       ✦ Front-End Development
-  ✦ REST API Design & Development    ✦ Data Analytics & Visualization
-  ✦ Database Design (SQL / MySQL)    ✦ Business Intelligence (Power BI)
-  ✦ Data Structures & Algorithms     ✦ Open Source Contribution
+  🧠 RAG (Retrieval-Augmented Generation)     🔗 LangChain & LLM Pipelines
+  ✦ Full-Stack Web Development     ✦ REST API Design & Development
+  ✦ Data Analytics & Visualization ✦ Database Design (SQL / MySQL) 
+  ✦ Database Design (SQL / MySQL)  ✦ Business Intelligence (Power BI)    
 ```
 
 ---
