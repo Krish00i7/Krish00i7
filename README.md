@@ -16,7 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Krishnakumar M**, a Computer Science student with a strong interest in full-stack web development and data analytics. I enjoy building end-to-end web applications — from designing intuitive front-end experiences to architecting reliable back-end systems and APIs. Alongside development, I have a keen interest in data — analyzing patterns, building dashboards, and deriving insights that drive better decisions. I'm passionate about writing clean, purposeful code and continuously improving my problem-solving skills through real-world projects.
+I'm Krishnakumar M, a Computer Science student with a strong interest in Data Analytics and AI Engineering. I enjoy working with data — cleaning, analyzing, and building pipelines that turn raw information into meaningful insights.
+Recently I've been diving deep into LLMs and RAG systems — building end-to-end pipelines using LangChain, ChromaDB, and Typesense that enable intelligent document querying and contextual question answering.
+I'm passionate about understanding how things work under the hood, writing clean purposeful code, and continuously building real projects that sharpen my skills.
 
 ---
 
@@ -29,6 +31,10 @@ I'm **Krishnakumar M**, a Computer Science student with a strong interest in ful
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🌐 Web Development & Frameworks
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
