@@ -32,7 +32,7 @@ I'm passionate about understanding how things work under the hood, writing clean
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI / ML
+### Gen AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6719?style=flat-square&logo=databricks&logoColor=white)
 
